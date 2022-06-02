@@ -1,6 +1,6 @@
 # Nithyakala
 
-Node JS | Angular | React | Mongo DB | Express | MEAN/MERN Stack
+Full Stack Developer
 
 [Email](mailto:nithyakala1988@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nithya-kala/)
 
