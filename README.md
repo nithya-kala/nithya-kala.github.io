@@ -8,21 +8,20 @@ Full Stack Developer
 Experienced Full Stack Developer with strong expertise in Mongo, Express, Angular, React and Node (MEAN/MERN stack).
 -	Expert in designing Single Page Applications (SPAs) and REST APIs.
 -	Good working experience in SQL and NOSQL databases (DB2, IBM Cloudant and **MongoDB**)
--	Built the **CI/CD** pipeline and deployed applications on IBM Public Cloud RedHat OpenShift DevOps for faster application delivery process
+-	Good expertise with **CI/CD** pipeline and application deployments on IBM Public Cloud RedHat OpenShift DevOps for faster application delivery process
 -	Experience in **microservices** based architecture
--	Build high quality, scalable frontend web applications with HTML5, CSS3, JavaScript, Typescript, **Angular** 12, RxJS and **Bootstrap**
--	Experienced in asynchronous JavaScript using promises, async/await.
+-	Development experience in building high quality, scalable frontend web applications with HTML5, CSS3, JavaScript, Typescript, **Angular** 12, RxJS and **Bootstrap**
+-	Deep understanding in asynchronous JavaScript using promises, async/await.
 -	Solid understanding of web technologies JSON, HTTP, Restful APIs, Swagger
 -	Good experience in design and development of front-end app with **React**, JavaScript, Typescript, Mantine Library, **Hooks** and Redux.
--	Experience with popular React.js state management library **Redux**
+-	Experience with popular React.js state management library Redux and zustand
 -	Good knowledge on Test Driven Development with Jasmine/Karma. 
 -	Experience and expertise in managing medium scale product development, from concept to end delivery. 
--	Have solution-oriented mindset and can-do attitude to overcome challenges
+-	Solution-oriented mindset and can-do attitude to overcome challenges
 -	Expertise on **REST API** development with **NodeJS** express framework
--	Managing technical team to build & deliver the applications with minimal or zero issues
+-	Managed technical team to build & deliver the applications with minimal or zero issues
 -	Experience working with **Agile** methodologies & capabilities
 -	Good with E2E Automation testing tools like Selenium Web driver, Protractor, ALM UFT etc.
-
 
 ## 👩🏼‍💻 Experience
 
