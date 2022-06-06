@@ -25,19 +25,19 @@ Hi there 👋, I'm Nithyakala, Full stack developer with strong expertise in Mon
 
 **IBM Manager's Choice Award** @ [IBM](https://www.ibm.com) _(2021)_ <br>
 Received IBM Manager's Choice Award for putting the Client first for their success
-<br><br>
+<br />
 
 **Eminence and Excellence Spark Award** @ [IBM](https://www.ibm.com) _(2019)_ <br>
 Excellence towards various IBM Initiatives
-<br><br>
+<br />
 
 **Star Spot Award** @ [emids](http://www.emids.com) _(2015)_<br>
 Won the Star Spot Award for for the skills, hard work and efforts towards project
-<br><br>
+<br />
 
 **Excellence Award** @ [cognizant](http://www.cognizant.com) _(2012)_<br>
 Excellence Award for the Excellence towards project deliverables
-<br><br>
+<br />
 
 ## 👩🏼‍💻 Experience
 
