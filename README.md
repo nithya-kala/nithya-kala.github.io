@@ -55,7 +55,7 @@ _(Mar 2011 - June 2014)_
 **English**: Professional <br>
 **Tamil**: Native <br>
 **Telugu**: Native
-<br><br>
+<br>
 
 ## 👩🏼‍🎓 Education
 
