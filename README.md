@@ -1,9 +1,9 @@
-👋 Hello! , I'm Nithyakala, Full stack developer and coding enthusiast
+# Nithyakala Rajendran
+Hi there 👋, I'm Nithyakala, Full stack developer with strong expertise in Mongo, Express, Angular, React and Node (**MEAN/MERN** stack).
 
-[Email](mailto:nithyakala1988@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nithya-kala/) / [Resume (download)](assets/nithya-kala-resume.pdf)
+[Email](mailto:nithyakala1988@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nithya-kala/) / [Resume (pdf)](assets/nithya-kala-resume.pdf)
 
 ## 💻  Summary
-Full Stack developer with strong expertise in Mongo, Express, Angular, React and Node (**MEAN/MERN** stack).
 - Expert in designing Single Page Applications (SPAs) and REST APIs.
 - Development experience in building high quality, scalable frontend web applications with HTML5, CSS3, JavaScript, Typescript, **Angular** 12, RxJS and **Bootstrap**
 - Good experience in building apps using **React**, React-Hooks and Redux.
