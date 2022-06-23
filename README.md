@@ -17,7 +17,6 @@ Hi there 👋, I'm Nithyakala, Full stack developer with strong expertise in Mon
 - Managed technical team to build & deliver the applications with minimal or zero issues
 - Experience working with **Agile** methodologies & capabilities
 - Good with E2E Automation testing tools like Selenium Web driver, Protractor, ALM UFT etc.
-- Familiar with AWS Stack including EC2, ELB, S3, Lambda and Fargate
 - Familiar with **gRPC** protocol and serialization formats like Protobuf
 - Good experience with **CI/CD** pipeline in OpenShift and **GitHub actions**
 
